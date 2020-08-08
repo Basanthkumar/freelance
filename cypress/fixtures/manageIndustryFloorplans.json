@@ -1,0 +1,137 @@
+{
+    "pageTitle": "Admin Portal",
+    "tabNames": [
+        "industry floorplan",
+        "industry floorplan import"
+    ],
+    "defaultSelectedTab": "industry floorplan",
+    "regionDropdownValues": [
+        "Select Region",
+        "Asia Pacific",
+        "EMEA",
+        "LAC",
+        "North America"
+    ],
+    "GOAP_19": {
+        "addIndustryData": {
+            "name": "#pkrsnm",
+            "region": "LAC",
+            "state": "PUBLISHED",
+            "faqDocument": "Ansell Cares",
+            "image": ""
+        },
+        "addIndustrySpaceNameData": {
+            "name": "   #pkrsnm     ",
+            "region": "LAC",
+            "state": "PUBLISHED",
+            "faqDocument": "Ansell Cares",
+            "image": ""
+        },
+        "industryNameMorethanLimit": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbb",
+        "addIndustryData_TC9": {
+            "region": "LAC",
+            "state": "PUBLISHED",
+            "faqDocument": "Ansell Cares",
+            "image": ""
+        },
+        "regionDropdownValues_TC11": [
+            "Asia Pacific",
+            "EMEA",
+            "LAC",
+            "North America"
+        ],
+        "regionDropdownValues_TC14": {
+            "name": "#pkrsnm",
+            "state": "PUBLISHED",
+            "faqDocument": "Ansell Cares",
+            "image": ""
+        },
+        "regionDropdownValues_TC16": [
+            "DRAFT",
+            "PUBLISHED"
+        ]
+    },
+    "GOAP_17_tC7": {
+        "searchByRegion": {
+            "Default" : "Select Region" ,
+            "input1": "North America",
+            "input2": "Asia Pacific",
+            "input3": "EMEA",
+            "input4": "LAC"
+        }
+    },
+    "GOAP_17_tC8and9": {
+        "SearchIndustyPositive": {
+            "input1": "Transport",
+            "input2": "Sciences",
+            "input3": "Cons",
+            "input4": "Uild"
+        },
+        "SearchIndustyNegative": {
+            "input1": "Trans port",
+            "input2": "78 Sciences",
+            "input3": "123456",
+            "input4": "Uild#$%",
+            "input5": "^&_)/(*"
+        }
+    },
+    "GOAP_17_tC10and11": {
+        "SearchProcessPositive": {
+            "input1": " Infrastructure - Construction",
+            "input2": "hydraulic",
+            "input3": "(Manu",
+            "input4": " Non-peri",
+            "input5": "^&_)/(*"
+        },
+        "SearchProcessNegative": {
+            "input1": "Infrastructure-Construction",
+            "input2": "hydraulic256",
+            "input3": "(Manu)",
+            "input4": " Non-peri+_*&^"
+        }
+    },
+    "GOAP_17_tC12and13": {
+        "SearchApplicatinPositive": {
+            "input1": "In warehouse at -20c",
+            "input2": "plumbing",
+            "input3": "(warehouse)",
+            "input4": "als,veg"
+            
+        },
+        "SearchApplicationNegative": {
+            "input1": "Infrastructure-Construction",
+            "input2": "hydraulic256",
+            "input3": "(Manu)",
+            "input4": " Non-peri+_*&^"
+        }
+    },
+    "GOAP_17_tC14": {
+        "searchByPeoduct": {
+            "input1": "Hand Protection",
+            "input2": "Arm Protection",
+            "input3": "Body Protection"
+        }
+    },
+
+    "GOAP_17_tC18and19": {
+        "SearchProductPositive": {
+            "input1": "02-100",
+            "input2": "HyFlex",
+            "input3": "Arm",
+            "input4": "3000",
+            "input5": "1800",
+            "input6": "11-101"
+        },
+        "SearchProductNegative": {
+            "input1": "02-100-10",
+            "input2": "Hy-Flex",
+            "input3": " FArm",
+            "input4": "3,1000",
+            "input5": "1800(*&#$%+",
+            "input6": "11_101"
+        }
+    }
+
+
+
+}
